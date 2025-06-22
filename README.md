@@ -1,6 +1,6 @@
 # 🖐️ Index Finger Swipe Controller
 
-A real-time gesture recognition system using your **index finger swipes** to simulate arrow key presses (`up`, `down`, `left`, `right`) with a webcam. Built using OpenCV, MediaPipe, and PyAutoGUI.
+A real-time gesture recognition system using your **index finger swipes** to simulate arrow key presses (`up`, `down`, `left`, `right`) with a webcam. Built using OpenCV, MediaPipe, and PyAutoGUI
 
 ## 📹 Demo
 
